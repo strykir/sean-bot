@@ -1,5 +1,5 @@
 # sean-bot
-This is Sean's Bot that will have:
+This is Galen's Personal Bot that has:
 - custom commands
 - ultimate bravery
 - others?
